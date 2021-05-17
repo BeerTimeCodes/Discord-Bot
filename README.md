@@ -1,8 +1,6 @@
 # Discord-Bot
 
-How to make a discord bot with no .env file!
-* = Edit
-** = DONT EDIT
+How to make a discord bot with no .env file! `* = Edit ** = DONT Edit`
 
 # Activating The Bot
 
