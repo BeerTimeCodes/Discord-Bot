@@ -1,8 +1,8 @@
 # Discord-Bot
 
 How to make a discord bot with no .env file!
-Italic = Edit
-Bold = DONT EDIT
+* = Edit
+** = DONT EDIT
 
 # Activating The Bot
 
