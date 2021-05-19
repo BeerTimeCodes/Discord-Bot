@@ -6,10 +6,12 @@ How to make a discord bot with no .env file! `* = Edit ** = DONT Edit`
 
 *To activate the bot, you need to put the bot token in `client.login('TOKEN')`
 When pressed run, it will download the npm files and the bot will become online.
+File: `index.js`
 
 # NPM Files
 
 **The NPM files will download discord.js & express. It will download it into the code, not on your computer.
+File: `index.js`
 
 # Bot Status
 
@@ -19,10 +21,12 @@ When pressed run, it will download the npm files and the bot will become online.
 
 *The 3 command files are `textcommands.js`, `embedcommands.js`, and `utility.js`
 These files are for commands. its so theres no big ol pile of code hehe. (Its for not getting lost) You can copy and paste the text in those files in order to make more.
+files: `textcommands.js`, `embedcommands.js`, `utility.js`
 
 # Events
 
 **The events are in the `EVENTS` folder. they have the ban, warn and kick event so the most important utility commands work.
+Folder: `EVNTS`
 
 
 # Got any questions?
